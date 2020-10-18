@@ -6,7 +6,7 @@ The purpose of this project was to create a 3d/VR digital collaborative environm
 We have created an entertaining, collaborative and innovative environment that enables the participants to be able to meet, talk and learn during this 3D/VR experience. The participants of this environment can interact with many objects i.e. whiteboard acts as a frame for slides so that when you import a slide into the room and drag it to the whiteboard (frame), the slides stick on the whiteboard.
 
 A study has shown that virtual reality (VR) applications can be used as a form of stress management that could be implemented at the workplace, this will allow workers to relax during their breaks.
-
+[![Watch the video on youtube](https://youtu.be/IkNldAv4IpQ)
 [![Watch the video on youtube](ibm_watson_git.PNG)](https://youtu.be/IkNldAv4IpQ)
 
 Google drive backup link: https://drive.google.com/file/d/11dqHyuHYfFwn36uc8C6pkslher7R84r-/view?usp=sharing
