@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Watson AI discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alousseynou Prince, Shankar Ammai",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ibm-watson": "^5.7.1"
+  }
+}
