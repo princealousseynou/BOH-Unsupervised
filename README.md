@@ -7,7 +7,7 @@ We have created an entertaining, collaborative and innovative environment that e
 
 A study has shown that virtual reality (VR) applications can be used as a form of stress management that could be implemented at the workplace, this will allow workers to relax during their breaks.
 
-[![Watch the video on youtube](https://youtu.be/IkNldAv4IpQ)
+[!Watch the video on youtube(https://youtu.be/IkNldAv4IpQ)
 
 [![Watch the video on youtube](ibm_watson_git.PNG)](https://youtu.be/IkNldAv4IpQ)
 
