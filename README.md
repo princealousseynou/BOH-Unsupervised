@@ -10,7 +10,7 @@ A study has shown that virtual reality (VR) applications can be used as a form o
 ![Mozilla Hub room](https://drive.google.com/file/d/12QJuG_4TJtumQIw4yFZItFPPOD8znNu9/view?usp=sharing)
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/11dqHyuHYfFwn36uc8C6pkslher7R84r-/view?usp=sharing)
+[![Watch the video]()](https://drive.google.com/file/d/11dqHyuHYfFwn36uc8C6pkslher7R84r-/view?usp=sharing)
 Youtube backup link: https://youtu.be/IkNldAv4IpQ
 
 
