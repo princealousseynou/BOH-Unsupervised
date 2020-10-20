@@ -9,10 +9,12 @@ A study has shown that virtual reality (VR) applications can be used as a form o
 
 [!Watch the video on youtube: https://youtu.be/IkNldAv4IpQ
 
+Mozilla hub room
 [![Mozilla hub room link](https://miro.medium.com/max/1047/1*UIJVmRu7qFg1Eu3J8Cau5Q.jpeg)](https://hubs.mozilla.com/scenes/xLepdim/openhack)
 
+Youtube video
 [![Watch the video on youtube](ibm_watson_git.PNG)](https://youtu.be/IkNldAv4IpQ)
 
-Google drive backup link: https://drive.google.com/file/d/11dqHyuHYfFwn36uc8C6pkslher7R84r-/view?usp=sharing
+Google drive video backup link: https://drive.google.com/file/d/11dqHyuHYfFwn36uc8C6pkslher7R84r-/view?usp=sharing
 
 
